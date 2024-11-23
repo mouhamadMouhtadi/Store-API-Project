@@ -1,0 +1,44 @@
+[
+    {
+        "Name": "Grilled Lemon Chicken",
+        "Description": "Tender chicken breasts marinated in lemon juice, garlic, and olive oil, then grilled to perfection.",
+        "Price": 15.99,
+        "ImageUrl": "images/products/grilled-lemon-chicken.png"
+    },
+    {
+        "Name": "Honey Garlic Chicken Thighs",
+        "Description": "Juicy chicken thighs glazed with a sweet and savory honey garlic sauce.",
+        "Price": 13.50,
+        "ImageUrl": "images/products/honey-garlic-chicken-thighs.png"
+    },
+    {
+        "Name": "Spicy Buffalo Chicken Wings",
+        "Description": "Crispy fried chicken wings tossed in a spicy buffalo sauce, served with blue cheese dressing.",
+        "Price": 12.00,
+        "ImageUrl": "images/products/spicy-buffalo-chicken-wings.png"
+    },
+    {
+        "Name": "Chicken Alfredo Pasta",
+        "Description": "Creamy fettuccine pasta served with grilled chicken, smothered in a rich Alfredo sauce.",
+        "Price": 17.99,
+        "ImageUrl": "images/products/chicken-alfredo-pasta.png"
+    },
+    {
+        "Name": "Chicken Caesar Salad",
+        "Description": "Grilled chicken strips served on a bed of fresh romaine lettuce, tossed with Caesar dressing and topped with croutons.",
+        "Price": 10.50,
+        "ImageUrl": "images/products/chicken-caesar-salad.png"
+    },
+    {
+        "Name": "Chicken Parmesan",
+        "Description": "Breaded chicken breast topped with marinara sauce and melted mozzarella cheese, served with spaghetti.",
+        "Price": 18.00,
+        "ImageUrl": "images/products/chicken-parmesan.png"
+    },
+    {
+        "Name": "BBQ Chicken Pizza",
+        "Description": "Thin-crust pizza topped with BBQ chicken, red onions, and cilantro on a tangy BBQ sauce base.",
+        "Price": 14.50,
+        "ImageUrl": "images/products/bbq-chicken-pizza.png"
+    }
+]
